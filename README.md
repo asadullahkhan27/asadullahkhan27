@@ -21,7 +21,7 @@ class AsadUllahKhan:
 ```
 
 <a href="https://github.com/asadullahkhan27">
-    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Asad989-a&data=followers,repositories,stars,commits&theme=nautilus">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=asadullahkhan27&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 
 ## 👨‍💻 About Me
