@@ -20,7 +20,7 @@ class AsadUllahKhan:
         print("Passionate about AI, teaching, and building innovative solutions!")
 ```
 
-<a href="https://github.com/Asad989-a">
+<a href="https://github.com/asadullahkhan27">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Asad989-a&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 
