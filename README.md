@@ -82,7 +82,7 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/asad-ullah-234/?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/asad-ullah-234?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ## Github Stats
