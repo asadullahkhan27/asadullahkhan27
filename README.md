@@ -88,16 +88,16 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 ## Github Stats
 
  <p align="center">
- <a href="https://github.com/Asad989-a"> 
- <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asad989-a&theme=algolia&hide_border=true" /> 
+ <a href="https://github.com/asadullahkhan27"> 
+ <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=asadullahkhan27&theme=algolia&hide_border=true" /> 
  </a> 
  </p>
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asad989-a&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahkhan&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahkhan27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahkhan27&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
 ## 🏆 Achievements & Certifications
