@@ -105,7 +105,7 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=asadullahkhan&theme=radical&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=asadullahkhan27&theme=radical&row=1&column=7)
 
 </div>
 
