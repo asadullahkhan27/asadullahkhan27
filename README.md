@@ -96,9 +96,10 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahkhan27&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahkhan27&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahkhan27&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahkhan27&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
+
 
 ## 🏆 Achievements & Certifications
 
