@@ -4,15 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&center=true&vCenter=true&width=650&height=100&lines=🖥️+Software+Developer;🤖+AI+%26+Machine+Learning+Specialist;⚡+Competitive+Programming+Enthusiast;🌍+International+Hackathon+Participants;🚀+Tech+Innovator+%26+Problem+Solver">
 </div>
 
-
-<a href="https://github.com/asadullahkhan27/asadullahkhan27">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asadullahkhan27/asadullahkhan27/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/asadullahkhan27/asadullahkhan27/main/light.svg">
-  </picture>
-  
-</a>
-
 ## 🎯 Quick Overview
 ```python
 
