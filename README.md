@@ -92,9 +92,6 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
   <img src="https://count.getloli.com/@:asadullahkhan27?theme=booru-twifanartsfw&padding=7&pixelated=1" />
 </div>
 
----
-
-<div align="center">
 
 ## 📈 GitHub Analytics
 
