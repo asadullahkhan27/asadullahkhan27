@@ -88,7 +88,6 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 </div>
 
 ## 👁️ Profile Views
-<h2 align="center">Profile Views</h2>
 <div align="center">
   <img src="https://count.getloli.com/@:asadullahkhan27?theme=booru-twifanartsfw&padding=7&pixelated=1" />
 </div>
