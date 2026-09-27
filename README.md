@@ -40,7 +40,7 @@ print("Passionate about AI, teaching, and building innovative solutions!")
 <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=asadullahkhan27&data=followers,repositories,stars,commits&theme=nautilus">
 </a>
 
-## 👨‍💻 About Me
+## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDl3bnFnY2g4eW10NzlsZG12cWNuOWU3aXY4c3J1bjVscGoybjkzeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" /></picture> About Me
 I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **AI, Machine Learning, and Competitive Programming**. I believe in **continuous learning** and sharing knowledge with others through **mentoring and education**.
 
 - 🎓 **Education**: **Associate Degree in Commerce**, University of Karachi, Pakistan
