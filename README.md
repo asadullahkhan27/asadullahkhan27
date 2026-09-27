@@ -119,7 +119,7 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 </p>
 
 ## <a href="https://github.com/Talha812/">
-<h1 align="left"> <a href="https://github.com/Talha812/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a>Achievements & Certifications & Community Contributions</h1>
+<h1 align="left"> <a href="https://github.com/asadullahkhan27/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a>Achievements & Certifications & Community Contributions</h1>
 </a> 
 
 <div align="center">
