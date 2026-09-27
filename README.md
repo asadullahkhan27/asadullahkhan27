@@ -13,13 +13,9 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammmad-talha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://engr-muhammad-talha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:engr.muhammadtalha.grad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-58D68D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/MuhammadTalha/"><img src="https://img.shields.io/badge/LeetCode-680%2B-F7DC6F?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://digital-library.theiet.org/doi/10.1049/icp.2025.1117"><img src="https://img.shields.io/badge/Research-Published-AED6F1?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
-  <!-- <img src="https://komarev.com/ghpvc/?username=Talha812&style=for-the-badge&color=blueviolet&label=Profile+Views" /> -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&center=true&vCenter=true&width=650&height=100&lines=🖥️+Software+Developer;🤖+AI+%26+Machine+Learning+Specialist;⚡+Competitive+Programming+Enthusiast;🌍+International+Hackathon+Participants;🚀+Tech+Innovator+%26+Problem+Solver">
+</div>
 </p>
 
 <br/>
@@ -28,9 +24,7 @@
 
 # 👋 Hi, I'm Asad Ullah Khan
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&center=true&vCenter=true&width=650&height=100&lines=🖥️+Software+Developer;🤖+AI+%26+Machine+Learning+Specialist;⚡+Competitive+Programming+Enthusiast;🌍+International+Hackathon+Participants;🚀+Tech+Innovator+%26+Problem+Solver">
-</div>
+
 
 ## 🎯 Quick Overview
 ```python
