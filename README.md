@@ -7,15 +7,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammmad-talha">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=Building+intelligent+systems+with+AI+%26+Full-Stack+craft;Published+Researcher+%E2%80%94+ICEPECC+2025+%7C+IET+Digital+Library;Trainer+%40+Stanford+Code+in+Place+2026;Gold+Medalist+%E2%80%94+CGPA+3.96%2F4.00" alt="typing intro" />
-  </a>
-</p>
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&center=true&vCenter=true&width=650&height=100&lines=🖥️+Software+Developer;🤖+AI+%26+Machine+Learning+Specialist;⚡+Competitive+Programming+Enthusiast;🌍+International+Hackathon+Participants;🚀+Tech+Innovator+%26+Problem+Solver">
 </div>
+
+
 </p>
 
 <br/>
