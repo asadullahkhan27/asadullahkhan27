@@ -1,3 +1,31 @@
+<!-- ============================ HERO BANNER ============================ -->
+
+<p align="center">
+  <a href="https://github.com/Talha812">
+    <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Educator•%20AI%20Researcher%20&descSize=18&descAlignY=60&descAlign=50" alt="Muhammad Talha — banner" /> -->
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=220&section=header&text=Muhammad%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Educator%20•%20AI%20Researcher&descSize=18&descAlignY=60" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammmad-talha">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=720&lines=Building+intelligent+systems+with+AI+%26+Full-Stack+craft;Published+Researcher+%E2%80%94+ICEPECC+2025+%7C+IET+Digital+Library;Trainer+%40+Stanford+Code+in+Place+2026;Gold+Medalist+%E2%80%94+CGPA+3.96%2F4.00" alt="typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammmad-talha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://engr-muhammad-talha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-4FC3F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:engr.muhammadtalha.grad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-58D68D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/MuhammadTalha/"><img src="https://img.shields.io/badge/LeetCode-680%2B-F7DC6F?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://digital-library.theiet.org/doi/10.1049/icp.2025.1117"><img src="https://img.shields.io/badge/Research-Published-AED6F1?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=Talha812&style=for-the-badge&color=blueviolet&label=Profile+Views" /> -->
+</p>
+
+<br/>
+
+
+
 # 👋 Hi, I'm Asad Ullah Khan
 
 <div align="center">
