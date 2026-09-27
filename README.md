@@ -18,10 +18,6 @@
 
 
 
-# 👋 Hi, I'm Asad Ullah Khan
-
-
-
 ## 🎯 Quick Overview
 ```python
 
