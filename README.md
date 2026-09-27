@@ -1,7 +1,7 @@
 <!-- ============================ HERO BANNER ============================ -->
 
 <p align="center">
-  <a href="https://github.com/Talha812">
+  <a href="https://github.com/asadullahkhan27">
     <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhamma%20Talha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Educator•%20AI%20Researcher%20&descSize=18&descAlignY=60&descAlign=50" alt="Muhammad Talha — banner" /> -->
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=220&section=header&text=Asad%20Ullah%20Khan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20•%20Stanford%20Section%20Leader%20•%20AI%20Researcher&descSize=18&descAlignY=60" />
   </a>
@@ -118,7 +118,9 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahkhan27&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
-## 🏆 Achievements & Certifications
+## <a href="https://github.com/Talha812/">
+<h1 align="left"> <a href="https://github.com/Talha812/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px"> </a>Achievements & Certifications & Community Contributions</h1>
+</a> 
 
 <div align="center">
 
