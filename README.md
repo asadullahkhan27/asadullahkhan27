@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asad-ullah-824b8136a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/LeetCode-1190%2B-F7DC6F?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/asad-ullah-234/"><img src="https://img.shields.io/badge/LeetCode-1190%2B-F7DC6F?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href=""><img src="https://img.shields.io/badge/Research-Published-AED6F1?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
   <!-- <img src="https://komarev.com/ghpvc/?username=Talha812&style=for-the-badge&color=blueviolet&label=Profile+Views" /> -->
 </p>
